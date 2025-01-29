@@ -95,3 +95,6 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Mise à jour du 28 janvier 2025 ✅
+Mise à jour du 29 janvier 2025 ✅
